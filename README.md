@@ -1,5 +1,5 @@
 # Source Code Management System
-This project was developed as a part of coursework in 2023
+This project was developed as a part of coursework in 2023.
 ## Overview
 
 This repository contains the SQL scripts necessary to create and initialize a database for managing source code projects, including user management, repository tracking, and collaboration tools such as issues and pull requests.
